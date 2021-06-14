@@ -1,3 +1,4 @@
+#pattern printing
 
 x = int(input("input number of rows: "))
 y = 1
